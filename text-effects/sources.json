@@ -7,13 +7,15 @@
       "terms_url": "https://www.magnific.com/legal/terms-of-use/",
       "terms_section": "8.1(7)",
       "training_status": "excluded_under_standard_terms",
-      "reason": "Standard content licence excludes machine learning and artificial intelligence purposes. Separate applicable permission has not been supplied.",
-      "acquisition_status": "not_started",
-      "pages_scanned": 0,
-      "images_downloaded": 0,
-      "screenshots_captured": 0,
-      "search_access": "Search URL could not be retrieved with research tool; terms page was retrieved.",
-      "next_action": "Obtain specific permission covering training and any redistribution, or choose a different source."
+      "acquisition_status": "partial_thumbnails_only",
+      "intended_use": "private visual reference",
+      "verified_thumbnails": 130,
+      "original_files_downloaded": 0,
+      "all_pages_complete": false,
+      "blockers": [
+        "Load more twice redirected to stock homepage",
+        "84 previously returned browser file paths unavailable at final verification"
+      ]
     }
   ]
 }

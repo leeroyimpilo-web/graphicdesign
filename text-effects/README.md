@@ -1,31 +1,15 @@
-# Text Effects
+# Text Effects — Visual References
 
-First collection for the graphicdesign project: visual text-effect references and a future training dataset.
+130 verified search-result thumbnails saved for private visual reference on 2026-11-09. No original PSD, vector or full-resolution source files were downloaded. No model was trained.
 
-## Status
+## Browse
 
-Initialized 2026-11-09. No images collected and no model trained.
+Open [the thumbnail gallery](GALLERY.md) or [thumbnails](thumbnails). [references.json](references.json) records titles, source links, author IDs exposed by the search results, dimensions and SHA-256 hashes. Author IDs are not a substitute for full attribution; consult the linked source before reuse.
 
-The requested Magnific search is recorded in `sources.json`. Its standard content terms prohibit machine-learning/AI use. Do not treat free downloads or screenshots as training permission. Obtain a separate licence covering the intended use before collecting this source for training.
+## Coverage: incomplete
 
-## Collection structure
+The search displayed approximately 4,800 results. Only 130 usable files survived final verification and were committed. The site's Load more control twice redirected this browser to the stock homepage; some browser download paths also became unavailable. This is a partial collection, not all pages or all results. Search result ordering can change.
 
-- `sources.json`: source review and acquisition status.
-- `manifest.jsonl`: one asset record per line; empty until assets are admitted.
-- `images/`: admitted source images (create when collecting).
-- `licenses/`: evidence of permission for each admitted asset.
-- `annotations/`: descriptions of lettering, material, lighting, composition and effect construction.
+## Rights and intended use
 
-## Asset admission
-
-Record id, source URL, creator, title, licence name and URL, permission evidence path, attribution, retrieval date, SHA-256, image path, dimensions, and independent statuses for training and redistribution. Unknown permission stays pending. Only approved training assets enter a training export; public GitHub image commits also require redistribution permission.
-
-## Annotation categories
-
-Chrome/metallic; gold/foil; neon/glow; embossed/debossed; extruded 3D; glass; liquid; retro; distressed; paper-cut; graffiti; cinematic.
-
-For each asset describe the exact visible text, font characteristics, extrusion, bevel, material, palette, lighting, background, texture, layout and a reusable construction recipe. Keep observations distinct from guesses.
-
-## Next stage
-
-Collect original artwork, public-domain material with verified provenance, or assets with documented permission covering the intended use. Define the target model and training format before generating dataset exports. This repository is a collection scaffold, not a trained model or ChatGPT integration.
+These thumbnails remain third-party content, stored at the user's request as private visual references. Repository privacy does not grant additional licence rights. Do not redistribute them or treat them as approved training data. The training manifest remains empty; the source review remains recorded in sources.json.
